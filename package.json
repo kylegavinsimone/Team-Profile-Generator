@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myrlaf25/myTeamProfileGenerator.git"
+    "url": "git+https://github.com/kylegavinsimone/myTeamProfileGenerator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/myrlaf25/myTeamProfileGenerator/issues"
+    "url": "https://github.com/kylegavinsimone/myTeamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/myrlaf25/myTeamProfileGenerator#readme",
+  "homepage": "https://github.com/kylegavinsimone/myTeamProfileGenerator#readme",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "inquirer": "^8.0.0",
